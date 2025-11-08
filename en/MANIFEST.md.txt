@@ -1,0 +1,30 @@
+Vision: The Future of AI Interaction is Structured
+Welcome to the experimental repository for the Prompt Engineering workshop at AI Experience 2025.
+Our mission is to build a virtual testing environment to demonstrate and quantify a central thesis: the effectiveness of an Artificial Intelligence model is intrinsically linked to the quality and structure of the prompts that guide it.
+This project arises from the need to move AI interaction from an abstract art to an applied science.
+
+The Challenge: From Ambiguity to Precision
+Interactions with generic or poorly designed prompts result in unpredictable, inconsistent, and often low-quality outputs.
+To unlock AI’s true potential, we need methods that guarantee clarity, context, and control.
+
+The Methodology: A Three-Pillar Benchmark
+This experiment will create a rigorous benchmark, systematically comparing the results of different AI models under three distinct conditions:
+
+Generic Prompts: We will simulate common, vague, and under-specified interactions to establish a performance baseline.
+
+Structured Prompts (Advanced Methods): We will implement and evaluate two high-performance methodologies:
+
+JSON Prompt: A format that structures the request as a data object, forcing the AI to think more logically and coherently.
+
+Kernel Prompt: An approach that encapsulates complex instructions, examples, and constraints within a cohesive “kernel,” guiding the model with maximum precision.
+
+Prompt Libraries: We will analyze the performance of an established commercial prompt library as an external reference point.
+
+The Legacy: An Open Resource for the Community
+All test scripts, prompts used, model-generated results, and comparative analyses will be versioned and made publicly available in this repository.
+
+The ultimate goal is twofold:
+
+Practical Demonstration: To serve as the primary demonstration tool during the workshop, showcasing unequivocally the power of prompt engineering.
+
+Long-Term Resource: To create a valuable asset for the community, enabling other developers, researchers, and enthusiasts to use our findings to enhance their own AI interactions.

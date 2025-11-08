@@ -1,0 +1,1 @@
+Este é um placeholder para o resultado da interação com a IA.
